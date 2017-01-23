@@ -1,3 +1,1 @@
-# test
-
-Readme.md
+Text for translations
